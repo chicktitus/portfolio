@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name": "Chick Titus",
+    "occupation": "ReactJS Developer && Founder Chicktitusteachgroups now changing to @kuzzify",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #kuzzify",
+    "image": "chicktitus.png",
+    "bio": "My name is Titus, I'm a ReactJS Developer. Currently I'm working at Kuzzify which is my company while also coaching ",
+    "contactmessage": "Get in touch with me to receive further details, or anything else.",
+    "email": "chicktitus24@gmail.com",
+    "phone": "+233 (0) 551 448 085",
+    "address": {
+      "street": "Adenta-Dodowa Road",
+      "city": "Accra",
+      "state": "Greater Accra, Ghana",
+      "zip": "AF 919 Adenta, Accra"
+    },
+    "website": "http://www.chicktitus.com",
+    "resumedownload": "https://drive.google.com/file/d/13oLpvk0lrDRLbp9f2oh0qVfRuwXIFMbZ/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/chicktitustechgroups",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/chicktitus/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/darioalvario/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/chicktitus",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am good in Communication, Customer service, Teamwork, Problem-solving, Time management, Adaptability, Technological, Work ethic",
+    "education": [
+      {
+        "school": "University of Buea",
+        "degree": "Bsc Computer Science",
+        "graduated": "January 2015",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Advance Learning Interactive Systems",
+        "degree": "Diploma Computer Science",
+        "graduated": "January 2012",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Chicktitustechgrous - Now Kuzzify, Accra, Ghana ",
+        "title": "CEO && Founder",
+        "years": "January 2019 - Present",
+        "description": "Web Develoment, Graphic Designs, Social Media Management."
+      },
+      {
+        "company": "Bob Didy Cafe, ",
+        "title": "Head of IT",
+        "years": "Nov 2015 - April 2017",
+        "description": "Teaching computer data processing to thousands of students."
+      },
+      {
+        "company": "MQLIF, ",
+        "title": "Software Engineer && System Administrator",
+        "years": "Nov 2013 - April 2015",
+        "description": "Building Web Apps, User administration (setup and maintaining account), Maintaining system, Quickly arrange repair for hardware in occasion of hardware failure.."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "WordPress",
+        "level": "98%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Photoshop",
+        "level": "60%"
+      },
+      {
+        "name": "Canva",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "LinkedIn Clone",
+        "category": "LinkedIn Clone built with (Firebase, Redux, ReactJS, NodeJS)",
+        "image": "linkedin-clone.PNG",
+        "url": "https://linkedin-clone-3430d.web.app/"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "#"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "#"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "#"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He is very reliabe, efficient, developed according to my expectation and on time. i love my E-commerce website. https://schlossventures.com/ .",
+        "user": "schlossventures"
+      },
+      {
+        "text": "That Chick Titus must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      },
+      {
+        "text": "This guy acutualy finished our wordpress site within a week. i must say he is good.! https://wordoffaithmission.com/",
+        "user": "Church Member... impersonator"
+      }
+    ]
+  }
+}
